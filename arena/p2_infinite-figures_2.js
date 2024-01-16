@@ -1,4 +1,4 @@
-let slug = 'infinite-figures-2';
+let slug = 'static-forms-messages';
 
 let page = 1; // Initialize the page number
 

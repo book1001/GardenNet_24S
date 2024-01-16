@@ -1,4 +1,4 @@
-let slug = 'ghosts-in-the-net-2';
+let slug = 'dynamic-form-information';
 
 let page = 1; // Initialize the page number
 

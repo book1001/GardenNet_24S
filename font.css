@@ -290,7 +290,13 @@ h1 {
   margin-inline-end: 0;
   font-weight: normal;
   text-align: center;
-  color: #000000;
+  /* color: #000000; */
+  padding: 0 40px 0 40px;
+}
+
+h1:hover {
+  color: black !important;
+  text-shadow: 0 0px 6px yellow;
 }
 
 h3 {
