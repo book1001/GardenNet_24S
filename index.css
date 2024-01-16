@@ -486,8 +486,8 @@ iframe{
   /* backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-left: black 1px solid; */
-  mix-blend-mode: difference;
-  color: #ffffff;
+  /* mix-blend-mode: difference;
+  color: #ffffff; */
 }
 
 .row-project {
