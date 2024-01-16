@@ -254,6 +254,12 @@
     row-gap: 0px;
   }
   
+  .col2-text {
+    padding: 0 28px 0 28px;
+    grid-template-columns: 1fr;
+    row-gap: 0px;
+  }
+
   .col2-S1 {
     grid-template-columns: 1fr;
   }
