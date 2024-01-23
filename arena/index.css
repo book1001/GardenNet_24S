@@ -60,7 +60,7 @@ hr {
 /* top area =============================================== */
 
 .h-arena-top {
-  height: 200px;
+  height: 210px;
 }
 
 .h-arena-top-3 {
@@ -124,6 +124,12 @@ hr {
   overflow: hidden;
   word-wrap: break-word;
   /* max-height: 300px; */
+}
+
+.Text {
+  grid-column: 1 / span 3;
+  border-bottom: 2px solid #ffffff;
+  max-height: 300px;
 }
 
 .Block__title {

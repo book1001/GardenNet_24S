@@ -29,8 +29,8 @@
     font-size: 0;
   }
 
-  .h-arena-top {
-    height: 210px;
+  .Text {
+    grid-column: 1 / span 2;
   }
 
   /* .p1_magic-spells_1 {
